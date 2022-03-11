@@ -1,13 +1,11 @@
 <p align="center">
-    <img src="https://octodex.github.com/images/manufacturetocat.png" height="160px" width="160px">
-    <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
-    <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px">
-    <img src="https://octodex.github.com/images/mona-the-rivetertocat.png" height="160px" width="160px">
+    <img src="https://octodex.github.com/images/total-eclipse-of-the-octocat.jpg"
+    height="160px" width="160px">
 </p>
 
 <h1 align="center">
     Hi there, I'm 
-    <a href="https://github.com/eric-murimi" target="_blank">E. Murimi!</a> 👋
+    <a href="https://github.com/eric-murimi" target="_blank">E Murimi!</a> 👋
 
 [![Visitor](https://komarev.com/ghpvc/?username=eric-murimi&style=flat&color=blueviolet)](https://github.com/eric-murimi) 
 [![GitHub followers](https://img.shields.io/github/followers/eric-murimi.svg?style=social&label=Follow&color=blueviolet)](https://github.com/eric-murimi?tab=followers) 
@@ -16,7 +14,10 @@
 <h3 align="center">
     Passionately curious software engineer
     <br/>
+    <br/>
     Fullstack Developer | UI / UX Designer | Front End dev | Backend dev| Database architect | Data analyst | Software Engineer 🖥 
+    <br/>
+    <br/>
 </h3>
 
 ```

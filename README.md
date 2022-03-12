@@ -5,17 +5,17 @@
 
 <h1 align="center">
     Hi there, I'm 
-    <a href="https://github.com/eric-murimi" target="_blank">E Murimi!</a> 👋
+    <a href="https://github.com/eric-murimi" target="_blank">Qwerty</a> 👋
 
 [![Visitor](https://komarev.com/ghpvc/?username=eric-murimi&style=flat&color=blueviolet)](https://github.com/eric-murimi) 
 [![GitHub followers](https://img.shields.io/github/followers/eric-murimi.svg?style=social&label=Follow&color=blueviolet)](https://github.com/eric-murimi?tab=followers) 
 </h1>
 
 <h3 align="center">
-    Passionately curious software engineer
+    Passionately Curious
     <br/>
     <br/>
-    Fullstack Developer | UI / UX Designer | Front End dev | Backend dev| Database architect | Data analyst | Software Engineer 🖥 
+    Fullstack Developer | UI / UX Designer | Front End dev | Backend dev | Database architect | Data analyst | Software Engineer 🖥 
     <br/>
     <br/>
 </h3>

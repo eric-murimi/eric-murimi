@@ -21,17 +21,20 @@
 </h3>
 
 ```javascript
-const express = require('express');
-const app = express();
+const express = require("express")
+const path = require("path")
+const app = express()
 
-app.get("/", (_, res) => res.send("Niaje Buda!));
+const PORT = process.env.PORT || 4040
 
-const PORT = process.env.PORT || 8087;
+app.use("/", express.static(path.join(__dirname, "build")))
 
-app.listen(PORT, () => {
-  console.log('SERVER STARTED | listening on port', PORT);
-});
-
+app.get("/", function (_, res) {
+  res.sendFile(path.join(__dirname, "./build/index.html"))
+})
+app.listen(4040, () => {
+  console.log("Server running on port", PORT)
+})
 ```
 <div>
     <p align="center">

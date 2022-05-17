@@ -32,7 +32,7 @@ app.use("/", express.static(path.join(__dirname, "build")))
 app.get("/", function (_, res) {
   res.sendFile(path.join(__dirname, "./build/index.html"))
 })
-app.listen(4040, () => {
+app.listen(PORT, () => {
   console.log("Server running on port", PORT)
 })
 ```

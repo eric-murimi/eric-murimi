@@ -15,7 +15,7 @@
     Passionately Curious
     <br/>
     <br/>
-    Fullstack Developer | UI / UX Designer | Front End dev | Backend dev | Database architect | Data analyst | Software Engineer 🖥 
+    Fullstack Developer | UI / UX Designer | Front End dev | Backend dev | DevOp | Software Engineer 🖥 
     <br/>
     <br/>
 </h3>

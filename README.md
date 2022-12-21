@@ -25,8 +25,9 @@
         alt=eric-murimi-dev />
         <br />
         <br />
-        [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
-        <b><em>GitHub Highlights</em></b>
+        <img src="https://github-readme-stats.vercel.app/api?username=eric-murimi&count_private=true&show_icons=true&theme=prussian"
+        alt=eric-murimi-dev />
+        <br />
         <br />
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=eric-murimi" alt="GitHub Highlights" />
         <br />

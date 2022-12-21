@@ -25,7 +25,7 @@
         alt=eric-murimi-dev />
         <br />
         <br />
-        <img src="https://github-readme-stats.vercel.app/api?username=eric-murimi&count_private=true&show_icons=true&theme=prussian"
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod"
         alt=eric-murimi-dev />
         <br />
         <br />

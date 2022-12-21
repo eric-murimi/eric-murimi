@@ -25,7 +25,7 @@
         alt=eric-murimi-dev />
         <br />
         <br />
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod"
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=2e27d1d5-a749-4484-bd55-093734a0a740"
         alt=eric-murimi-dev />
         <br />
         <br />

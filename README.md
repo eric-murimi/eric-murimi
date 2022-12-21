@@ -21,14 +21,10 @@
 </h3>
 <div>
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=eric-murimi&count_private=true&show_icons=true&theme=prussian"
+<!--         <img src="https://github-readme-stats.vercel.app/api?username=eric-murimi&count_private=true&show_icons=true&theme=prussian"
         alt=eric-murimi-dev />
         <br />
-        <br />
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=2e27d1d5-a749-4484-bd55-093734a0a740"
-        alt=eric-murimi-dev />
-        <br />
-        <br />
+        <br /> -->
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=eric-murimi" alt="GitHub Highlights" />
         <br />
         <br />

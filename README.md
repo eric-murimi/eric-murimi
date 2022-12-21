@@ -25,6 +25,7 @@
         alt=eric-murimi-dev />
         <br />
         <br />
+        [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
         <b><em>GitHub Highlights</em></b>
         <br />
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=eric-murimi" alt="GitHub Highlights" />
@@ -82,7 +83,7 @@
 <br/>
 <h6>Code Example:<h6>
 
-```javascript
+``` javascript
 const express = require("express")
 const path = require("path")
 const app = express()

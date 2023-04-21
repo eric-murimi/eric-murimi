@@ -78,27 +78,6 @@
 [![](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)]()
 
 <br/>
-<h6>Code Example:<h6>
-
-``` javascript
-const express = require("express")
-const path = require("path")
-const app = express()
-
-const PORT = process.env.PORT || 4040
-
-app.use("/", express.static(path.join(__dirname, "build")))
-
-app.get("/", function (_, res) {
-  res.sendFile(path.join(__dirname, "./build/index.html"))
-})
-
-app.listen(PORT, () => {
-  console.log("Server running on port", PORT)
-})
-```
-<br/>
-<br/>
 <p align="center">
     <a href="https://www.linkedin.com/in/eric-murimi-dev/" target="blank">
         <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="eric-murimi-dev" height="25" width="25" />
